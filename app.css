@@ -1,0 +1,14 @@
+button {
+    font-size: 2rem;
+    border-radius: 6px;
+    width: 100%;
+    margin: .5rem 0;
+}
+
+#check{
+    background: turquoise;
+}
+
+#uncheck{
+    background: orange;
+}

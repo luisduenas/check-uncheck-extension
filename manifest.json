@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Uncheck",
+    "description": "Uncheck all checkboxes on the current tab",
+    "version": "1.0",
+    "action": {
+        "default_popup": "app.html"
+    },
+    "permissions": [
+        "tabs",
+        "scripting",
+        "activeTab"
+    ]
+}
